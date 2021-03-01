@@ -1,3 +1,3 @@
 # lab2
-lab2_error
+lab2_error yes
 
