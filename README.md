@@ -1,3 +1,3 @@
 # lab2
-68768
+lab2_error
 
