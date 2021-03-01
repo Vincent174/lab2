@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.960,=C:\Users\ivashkin-av-5\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.316,=W:\OS\lab7\Unit3.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.323,C:\Users\ivashkin-av-5\Documents\Embarcadero\Studio\Projects\Unit1.dfm=W:\OS\lab7\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.072,C:\Users\ivashkin-av-5\Documents\Embarcadero\Studio\Projects\Project1PCH1.h=W:\OS\lab7\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.323,C:\Users\ivashkin-av-5\Documents\Embarcadero\Studio\Projects\Unit1.cpp=W:\OS\lab7\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.020,=W:\OS\lab7\Unit2.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.323,C:\Users\ivashkin-av-5\Documents\Embarcadero\Studio\Projects\Unit1.h=W:\OS\lab7\Unit1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.207,=C:\Users\ivashkin-av-5\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.973,C:\Users\ivashkin-av-5\Documents\Embarcadero\Studio\Projects\Project1.cbproj=W:\OS\lab7\Project1.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>
