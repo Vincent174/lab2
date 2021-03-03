@@ -14,7 +14,7 @@ TForm1 *Form1;
 //---------------------------------------------------------------------------
 void TForm1::draw(){
 	DrawGrid1->Canvas->Brush->Color = clWhite;
-	for(int i=0; i<4; i++)
+	for(int i=0; i<4; i++)#123456789
 		for(int j=0; j<4; j++){
 			DrawGrid1->Canvas->FillRect(DrawGrid1->CellRect(j,i));
 			ImageList1->Draw(DrawGrid1->Canvas,DrawGrid1->CellRect(j, i).Left, DrawGrid1->CellRect(j, i).Top, StringGrid1->Cells[j][i].ToInt(), true);
